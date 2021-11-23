@@ -12,6 +12,6 @@ I love solving problems systematically and always ready to learn new things. A s
 * Ruby on Rails
 * SQL
 * Java
-* R
+* R - 
 I write syntax in R-language to perform data analysis and draw insight from datasets through data gathering and cleaning, wrangling and analysis.
 Currently looking for opportunities...
