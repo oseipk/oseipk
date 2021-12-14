@@ -4,7 +4,7 @@ oseipk/oseipk is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi There, </h1> <i fas fa-handwave>
-const Osei = { <br>
+const osei = { <br>
 "pronoun": "He" | "Him",<br>
 "code":["JavaScript", "TypeScript", "HTML", "CSS"];<br>
 "tools": "React", "ExpressJS", "NodeJS", "SQL", "Solidity";<br>
