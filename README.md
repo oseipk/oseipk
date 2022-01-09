@@ -8,5 +8,5 @@ const osei = { <br>
 pronoun: "He" | "Him",<br>
 code:["JavaScript", "TypeScript", "HTML", "CSS", "Ruby"];<br>
 tools: "React", "Ruby on Rails", "POSTGRES", "SQL", "Solidity";<br>
-Interest: "Blockchain Projects on Finance" && "Any Opportunities";<br>
+Interest: "Blockchain Projects" && "Any Opportunities";<br>
 contact: "osei.pinamang@gmail.com | "info@oseipk.com"}
