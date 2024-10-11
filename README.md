@@ -7,6 +7,6 @@ You can click the Preview link to take a look at your changes.
 const osei = { <br>
 pronoun: "He" | "Him",<br>
 code:["JavaScript", "Python", "HTML", "CSS", "Rust","LLM","LLMOps];<br>
-tools: "Azure Cloud Computing";<br>
-Interest: "Data Engineering","Machine Learning" && "Any Opportunities";<br>
+tools: "Azure Cloud Computing" | AWS ;<br>
+Interest: "Data Engineering","Machine Learning" |"LLMs",|"Quantization";<br>
 contact: "osei.pinamang@gmail.com | "info@oseipk.com"}
